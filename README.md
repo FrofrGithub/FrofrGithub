@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FrofrGithub
+- 👀 I’m interested in Discord Bots🤖
+- 🌱 I’m currently learning Python
